@@ -1,0 +1,10 @@
+{
+  "name" : "tinson/formatter",
+  "description" : "api formatter",
+  "require" : {
+    "php" : ">=5.6"
+  },
+  "autoload" : {
+    "psr-4" : {"ApiFormatter\\" : "src/"}
+  }
+}
